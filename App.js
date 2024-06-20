@@ -163,7 +163,7 @@ async function registerForPushNotificationsAsync() {
 }
 
 const statusBarHeight = StatusBar.currentHeight;
-const KEY_GPT = 'sk-proj-9JjboNGiLqEIWQC5aU2lT3BlbkFJeGLjDrOOn7gI5bMMrsxC';
+const KEY_GPT = '';
 
 export default function App() {
   const [nivel, setNivel] = useState("");
